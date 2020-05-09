@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-npm install vue-bem-classes
+npm install -S vue-bem-classes
 ```
 
 or
@@ -17,19 +17,19 @@ yarn add vue-bem-classes
 After cloning the repo
 
 ```sh
-yarn install
+npm install
 ```
 
 To run examples in the playground
 
 ```sh
-yarn dev
+npm run dev
 ```
 
 To build the package
 
 ```sh
-yarn build
+npm run build
 ```
 
 ## The Why
